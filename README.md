@@ -19,5 +19,5 @@
   <h1>Back-End</h1>
         </div>
       <br><br>
-      <img src="https://camo.githubusercontent.com/29b2d2e63376a4abbc93a1996ac020c24489459289002edb2fe791adf402589c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6c65656d656d6265722673686f775f69636f6e733d74727565267468656d653d64726163756c61" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=minahlee98&show_icons=true&theme=radical" style="max-width: 100%;">
+      <img alt="Minah's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=minahlee98&show_icons=true&theme=radical" style="max-width: 100%;">
   </div>
