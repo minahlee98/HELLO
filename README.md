@@ -6,7 +6,8 @@
 
   <p>(☞ﾟヮﾟ)☞&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://talking-potato-dev.tistory.com/"><img src="https://img.shields.io/badge/Blog-FA005A?style=flat=sequare&logo=Fandom&logoColor=-white"/></a></p>
 <br>
-  <img width="50%" src="https://user-images.githubusercontent.com/77047321/226772406-f5a167af-c1e7-4e82-b590-dcb42ab8ef53.gif">
+  <!--<img width="50%" src="https://user-images.githubusercontent.com/77047321/226772406-f5a167af-c1e7-4e82-b590-dcb42ab8ef53.gif">-->
+ <img width="50%" src="https://user-images.githubusercontent.com/77047321/226788394-eb1a0f18-39ef-4936-af39-7fb613fc5295.gif">
   
   <div tabindex="-1" dir="auto">
     <h1>🌟Front-End Stack🌟</h1>
