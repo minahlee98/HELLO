@@ -11,13 +11,17 @@
   <img width="50%" src="https://user-images.githubusercontent.com/77047321/226772406-f5a167af-c1e7-4e82-b590-dcb42ab8ef53.gif">
   
   <div tabindex="-1" dir="auto">
-    <h1>Front-End</h1>
+    <h1>🌟Front-End🌟</h1>
     <div>
       
   <br>
       <div tabindex="-1" dir="auto">
-  <h1>Back-End</h1>
+  <h1>🌈Back-End🌈</h1>
         </div>
       <br><br>
-      <img alt="Minah's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=minahlee98&show_icons=true&theme=radical" style="max-width: 100%;">
+
   </div>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minahlee98&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minahlee98&compact_layouts=true)](https://github.com/anuraghazra/github-readme-stats)
