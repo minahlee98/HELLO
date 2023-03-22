@@ -11,6 +11,7 @@
   <div tabindex="-1" dir="auto">
     <h1>🌟Front-End Stack🌟</h1>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -19,6 +20,7 @@
   <br>
       <div tabindex="-1" dir="auto">
   <h1>🌈Back-End Stack🌈</h1>
+    <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
