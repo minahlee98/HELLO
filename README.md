@@ -18,4 +18,6 @@
       <div tabindex="-1" dir="auto">
   <h1>Back-End</h1>
         </div>
+      <br><br>
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minahlee98&show_icons=true&theme=radical)
   </div>
